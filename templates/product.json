@@ -30,7 +30,9 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "link_label" : "Color Variant",
+            "picker_type": "button",
+            "link" : "https://contents.mediadecathlon.com/p2144087/k$42360d46e1e17a7f6bbf84a855f6778f/sq/mini-backpacks.jpg?format=auto&f=800x0"
           }
         },
         "quantity_selector": {
