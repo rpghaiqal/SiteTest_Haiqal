@@ -34,7 +34,6 @@ You can customize your theme settings from your Shopify admin by using the theme
 This section list the major frameworks/libraries used to bootstrap my project. Add-ons/plugins were added for the acknowledgements section.
 
 * [![Liquid]](https://shopify.dev/api/liquid)
-* [![Vue]](https://vuejs.org/)
 * [![Bootstrap]](https://getbootstrap.com/)
 * [![JSON]](https://www.json.org/json-en.html)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
